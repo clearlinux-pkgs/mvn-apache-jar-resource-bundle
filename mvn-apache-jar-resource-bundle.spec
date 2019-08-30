@@ -4,7 +4,7 @@
 #
 Name     : mvn-apache-jar-resource-bundle
 Version  : 1.4
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/org/apache/apache-jar-resource-bundle/1.4/apache-jar-resource-bundle-1.4.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/apache-jar-resource-bundle/1.4/apache-jar-resource-bundle-1.4.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/apache-jar-resource-bundle/1.4/apache-jar-resource-bundle-1.4.jar
